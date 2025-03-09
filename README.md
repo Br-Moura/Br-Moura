@@ -25,7 +25,3 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 🔹 **Boa comunicação faz a diferença** – No suporte de TI, explicar soluções de forma clara e objetiva evita retrabalho e melhora a experiência do usuário.
 
 🔹 **Organização e documentação** – Manter um código bem comentado e documentado facilita futuras melhorias e colaborações em equipe.
-
-
-## 📊 Estatísticas do GitHub
-![Br-Moura GitHub Stats](https://github-readme-stats.vercel.app/api?username=Br-Moura&show_icons=true&theme=radical)
