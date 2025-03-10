@@ -14,3 +14,19 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
+## 📂 Meus Projetos
+
+Aqui estão alguns dos meus principais projetos:
+
+- 🔹 **[Automação de Processamento de Arquivos - AMEX](https://github.com/seu-usuario/AMEX-Automation)**  
+  🔹 *Automação para processamento de arquivos do Banco Bradesco AMEX, incluindo descriptografia e comparação de registros.*
+
+- 🔹 **[Banco do Brasil - Automação](https://github.com/seu-usuario/BB-Automation)**  
+  🔹 *Script para processamento e validação de arquivos do Banco do Brasil, utilizando Python para automação de tarefas repetitivas.*
+
+- 🔹 **[Dashboard Power BI - Análise de Suporte TI](https://github.com/seu-usuario/Dashboard-Suporte-TI)**  
+  🔹 *Dashboard interativo no Power BI para análise de chamados e otimização de suporte técnico.*
+
+📌 Confira mais no meu GitHub:  
+[![GitHub](https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/Br-Moura?tab=repositories))
