@@ -14,5 +14,3 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br-Moura&hide=contribs,prs)
-
