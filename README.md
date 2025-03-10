@@ -1,13 +1,9 @@
 # Olá! Eu sou Breno Moura 👋
-<div>
-  <div>
-    ## 🚀 Sobre mim
-    Atualmente, trabalho com suporte de TI, auxiliando na resolução de problemas técnicos e garantindo o bom funcionamento dos sistemas. Além disso, dou suporte e realizo melhorias em ferramentas desenvolvidas em Python, focando na automação de processos para otimizar fluxos de trabalho.
-  </div>
-  <div>
-    Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas habilidades. Tenho desenvolvido diversos projetos dentro da empresa, voltados para eficiência e inovação tecnológica.
-  </div>
-</div>
+## 🚀 Sobre mim
+
+Atualmente, trabalho com suporte de TI, auxiliando na resolução de problemas técnicos e garantindo o bom funcionamento dos sistemas. Além disso, dou suporte e realizo melhorias em ferramentas desenvolvidas em Python, focando na automação de processos para otimizar fluxos de trabalho.
+
+Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas habilidades. Tenho desenvolvido diversos projetos dentro da empresa, voltados para eficiência e inovação tecnológica.
 
 - 🌱 Atualmente estou aprendendo: **[PYTHON, R, POWER BI]**
 - 💬 Me pergunte sobre: **Automação, Python, Suporte de TI**
