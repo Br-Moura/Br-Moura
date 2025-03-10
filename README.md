@@ -19,13 +19,13 @@ Sou estudante de Engenharia de Software e estou sempre buscando aprimorar minhas
 
 Aqui estão alguns dos meus principais projetos:
 
-- 🔹 **[Automação de Processamento de Arquivos - AMEX](https://github.com/seu-usuario/AMEX-Automation)**  
+- 🔹 **[Automação de Processamento de Arquivos AMEX - Bradesco](https://github.com/Br-Moura/Automa-o_de_Processamento_de_Arquivos_AMEX_Bradesco)**  
   🔹 *Automação para processamento de arquivos do Banco Bradesco AMEX, incluindo descriptografia e comparação de registros.*
 
-- 🔹 **[Banco do Brasil - Automação](https://github.com/seu-usuario/BB-Automation)**  
+- 🔹 **[Automação de Processamento de Arquivos - Banco do Brasil](https://github.com/Br-Moura/Automa-o_de_Processamento_de_Arquivos_Banco_do_Brasil)**  
   🔹 *Script para processamento e validação de arquivos do Banco do Brasil, utilizando Python para automação de tarefas repetitivas.*
 
-- 🔹 **[Dashboard Power BI - Análise de Suporte TI](https://github.com/Br-Moura/Automa-o-de-Processamento-deArquivos_AMEX_Centurion_-Bradesco-)**  
+- 🔹 **[Automação de Processamento de Arquivos - AMEX Centurion (Bradesco)](https://github.com/Br-Moura/Automa-o-de-Processamento-deArquivos_AMEX_Centurion_-Bradesco-)**  
   🔹 *Dashboard interativo no Power BI para análise de chamados e otimização de suporte técnico.*
 
-📌 Confira mais no meu GitHub:  [![GitHub](https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white)]([(https://github.com/Br-Moura?tab=repositories)])
+📌 Confira mais no meu GitHub:  [![GitHub](https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Br-Moura?tab=repositories)
