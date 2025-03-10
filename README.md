@@ -25,7 +25,7 @@ Aqui estão alguns dos meus principais projetos:
 - 🔹 **[Banco do Brasil - Automação](https://github.com/seu-usuario/BB-Automation)**  
   🔹 *Script para processamento e validação de arquivos do Banco do Brasil, utilizando Python para automação de tarefas repetitivas.*
 
-- 🔹 **[Dashboard Power BI - Análise de Suporte TI](https://github.com/seu-usuario/Dashboard-Suporte-TI)**  
+- 🔹 **[Dashboard Power BI - Análise de Suporte TI]([https://github.com/seu-usuario/Dashboard-Suporte-TI](https://github.com/Br-Moura/Automa-o-de-Processamento-deArquivos_AMEX_Centurion_-Bradesco-))**  
   🔹 *Dashboard interativo no Power BI para análise de chamados e otimização de suporte técnico.*
 
 📌 Confira mais no meu GitHub:  [![GitHub](https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white)]([(https://github.com/Br-Moura?tab=repositories)])
