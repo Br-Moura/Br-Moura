@@ -26,6 +26,6 @@ Aqui estão alguns dos meus principais projetos:
   🔹 *Script para processamento e validação de arquivos do Banco do Brasil, utilizando Python para automação de tarefas repetitivas.*
 
 - 🔹 **[Automação de Processamento de Arquivos - AMEX Centurion (Bradesco)](https://github.com/Br-Moura/Automa-o-de-Processamento-deArquivos_AMEX_Centurion_-Bradesco-)**  
-  🔹 *Dashboard interativo no Power BI para análise de chamados e otimização de suporte técnico.*
+  🔹 *Este script automatiza o processamento de arquivos do Banco Bradesco AMEX, facilitando a leitura, comparação e inserção de dados.*
 
 📌 Confira mais no meu GitHub:  [![GitHub](https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Br-Moura?tab=repositories)
