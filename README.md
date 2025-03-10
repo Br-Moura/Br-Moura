@@ -28,4 +28,4 @@ Aqui estão alguns dos meus principais projetos:
 - 🔹 **[Dashboard Power BI - Análise de Suporte TI](https://github.com/seu-usuario/Dashboard-Suporte-TI)**  
   🔹 *Dashboard interativo no Power BI para análise de chamados e otimização de suporte técnico.*
 
-📌 Confira mais no meu GitHub:  [![GitHub](https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/Br-Moura?tab=repositories))
+📌 Confira mais no meu GitHub:  [![GitHub](https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white)]([(https://github.com/Br-Moura?tab=repositories)])
