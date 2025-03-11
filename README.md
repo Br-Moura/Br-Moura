@@ -27,6 +27,8 @@ Aqui estão alguns dos meus principais projetos:
 
 - 🔹 **[Automação de Processamento de Arquivos - AMEX Centurion (Bradesco)](https://github.com/Br-Moura/Automa-o-de-Processamento-deArquivos_AMEX_Centurion_-Bradesco-)**  
   🔹 *Este script automatiza o processamento de arquivos do Banco Bradesco AMEX, facilitando a leitura, comparação e inserção de dados.*
+  
+Aqui estão alguns dos meus principais estudos:
 
 - 🔹 **[Estudos_R_PYTHON_ANALISEDADOS](https://github.com/Br-Moura/Estudos_R_PYTHON_ANALISEDADOS)**  
   🔹 *Estudos utilizando python e R para buscar informações em banco de dados*
